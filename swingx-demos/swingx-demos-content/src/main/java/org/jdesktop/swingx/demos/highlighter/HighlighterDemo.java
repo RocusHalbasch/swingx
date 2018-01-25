@@ -96,9 +96,13 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates Highlighters, a lightweight, reusable, visual decorator.",
     sourceFiles = {
         "org/jdesktop/swingx/demos/highlighter/HighlighterDemo.java",
+        "org/jdesktop/swingx/demos/highlighter/DerivedFontHighlighter.java",
+        "org/jdesktop/swingx/demos/highlighter/HighlighterInfo.java",
+        "org/jdesktop/swingx/demos/highlighter/HighlightPredicateInfo.java",
         "org/jdesktop/swingx/demos/highlighter/resources/HighlighterDemo.properties",
         "org/jdesktop/swingx/demos/highlighter/resources/HighlighterDemo.html",
-        "org/jdesktop/swingx/demos/highlighter/resources/images/HighlighterDemo.png"
+        "org/jdesktop/swingx/demos/highlighter/resources/images/HighlighterDemo.png",
+        "org/jdesktop/swingx/demos/highlighter/resources/images/green-orb.png"
     }
 )
 @SuppressWarnings("serial")

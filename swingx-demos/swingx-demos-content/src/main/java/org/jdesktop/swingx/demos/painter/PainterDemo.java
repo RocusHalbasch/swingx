@@ -184,7 +184,11 @@ import com.sun.swingset3.DemoProperties;
         "org/jdesktop/swingx/demos/painter/PainterDemoUtils.java",
         "org/jdesktop/swingx/binding/DisplayInfo.java",
         "org/jdesktop/swingx/binding/DisplayInfoConverter.java",
-        "org/jdesktop/swingx/demos/painter/resources/PainterDemo.properties"
+        "org/jdesktop/swingx/demos/painter/resources/PainterDemo.properties",
+        "org/jdesktop/swingx/demos/painter/resources/images/PainterDemo.png",
+        "org/jdesktop/swingx/demos/painter/a-glyph.png",
+        "org/jdesktop/swingx/demos/painter/border.gif",
+        "org/jdesktop/swingx/demos/painter/moon.jpg"
     }
 )
 @SuppressWarnings("serial")

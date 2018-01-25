@@ -52,8 +52,8 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates JXEditorPane, an extended text editing component",
     sourceFiles = {
         "org/jdesktop/swingx/demos/xeditorpane/XEditorPaneDemo.java",
-        "org/jdesktop/swingx/demos/xeditorpane/resources/XEditorPaneDemo.properties",
-        "org/jdesktop/swingx/demos/xeditorpane/resources/XEditorPaneDemo.html"
+        "org/jdesktop/swingx/demos/xeditorpane/resources/Bike.html",
+        "org/jdesktop/swingx/demos/xeditorpane/resources/images/XEditorPaneDemo.gif"
     }
 )
 @SuppressWarnings("serial")

@@ -97,10 +97,14 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates extended JXMonthView features (not yet public)",
     sourceFiles = {
         "org/jdesktop/swingx/demos/monthviewext/MonthViewExtDemo.java",
+        "org/jdesktop/swingx/demos/monthviewext/DemoCalendarHeaderHandler.java",
         "org/jdesktop/swingx/plaf/basic/DemoMonthViewUI.java",
         "org/jdesktop/swingx/plaf/basic/DemoCalendarRenderingHandler.java",
         "org/jdesktop/swingx/demos/monthviewext/MonthViewExtDemoUtils.java",
-        "org/jdesktop/swingx/demos/monthviewext/resources/MonthViewExtDemo.properties"
+        "org/jdesktop/swingx/demos/monthviewext/resources/MonthViewExtDemo.properties",
+        "org/jdesktop/swingx/demos/monthviewext/resources/MonthViewExtDemo.html",
+        "org/jdesktop/swingx/demos/monthviewext/resources/images/MonthViewExtDemo.png",
+        "org/jdesktop/swingx/demos/monthviewext/resources/images/demo_duke.png"
     }
 )
 @SuppressWarnings("serial")

@@ -62,7 +62,9 @@ import com.sun.swingset3.DemoProperties;
         description = "Demonstrates the usage of SwingX renderer decorations.",
         sourceFiles = {
                 "org/jdesktop/swingx/demos/decorator/DecoratorDemo.java",
-                "org/jdesktop/swingx/demos/decorator/HighlighterClient.java"
+                "org/jdesktop/swingx/demos/decorator/HighlighterClient.java",
+                "org/jdesktop/swingx/demos/decorator/resources/DecoratorDemo.properties",
+                "org/jdesktop/swingx/demos/decorator/resources/images/DecoratorDemo.png"
                 }
 )
 public class DecoratorDemo extends JPanel {

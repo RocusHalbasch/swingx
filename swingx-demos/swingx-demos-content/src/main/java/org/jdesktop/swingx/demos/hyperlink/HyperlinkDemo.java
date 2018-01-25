@@ -72,7 +72,12 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates JXHyperlink, a button providing a hyperlink feel.",
     sourceFiles = {
         "org/jdesktop/swingx/demos/hyperlink/HyperlinkDemo.java",
-        "org/jdesktop/swingx/demos/hyperlink/resources/HyperlinkDemo.properties"
+        "org/jdesktop/swingx/demos/hyperlink/resources/HyperlinkDemo.properties",
+        "org/jdesktop/swingx/demos/hyperlink/resources/HyperlinkDemo.html",
+        "org/jdesktop/swingx/demos/hyperlink/resources/images/HyperlinkDemo.png",
+        "org/jdesktop/swingx/demos/hyperlink/resources/images/earth_day.gif",
+        "org/jdesktop/swingx/demos/hyperlink/resources/images/earth_night.gif",
+        "org/jdesktop/swingx/demos/hyperlink/resources/images/workerduke.png"
     }
 )
 @SuppressWarnings("serial")

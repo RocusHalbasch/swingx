@@ -65,7 +65,10 @@ import com.sun.swingset3.DemoProperties;
         description = "Demonstrates value based highlighting.",
         sourceFiles = {
                 "org/jdesktop/swingx/demos/highlighterext/HighlighterExtDemo.java",
-                "org/jdesktop/swingxset/util/RelativePainterHighlighter.java"
+                "org/jdesktop/swingxset/util/RelativePainterHighlighter.java",
+                "org/jdesktop/swingx/demos/highlighterext/resources/HighlighterExtDemo.properties",
+                "org/jdesktop/swingx/demos/highlighterext/resources/HighlighterExtDemo.html",
+                "org/jdesktop/swingx/demos/highlighterext/resources/images/HighlighterExtDemo.png"
                 }
 )
 

@@ -79,7 +79,9 @@ import com.sun.swingset3.DemoProperties;
             "org/jdesktop/swingx/demos/treetable/TreeTableDemo.java",
             "org/jdesktop/swingx/demos/tree/TreeDemoIconValues.java",
         "org/jdesktop/swingxset/JXDemoFrame.java",
-        "org/jdesktop/swingx/demos/treetable/resources/TreeTableDemo.properties"
+        "org/jdesktop/swingx/demos/treetable/resources/TreeTableDemo.properties",
+        "org/jdesktop/swingx/demos/treetable/resources/TreeTableDemo.html",
+        "org/jdesktop/swingx/demos/treetable/resources/images/TreeTableDemo.png"
     }
 )
 @SuppressWarnings("serial")

@@ -92,10 +92,19 @@ import com.sun.swingset3.demos.Stacker;
         description = "Demonstrates JXTable, an enhanced data grid display.",
         sourceFiles = {
                 "org/jdesktop/swingx/demos/table/XTableDemo.java",
+                "org/jdesktop/swingx/demos/table/CustomColumnFactory.java",
+                "org/jdesktop/swingx/demos/table/IMDBLink.java",
+                "org/jdesktop/swingx/demos/table/OscarCandidate.java",
+                "org/jdesktop/swingx/demos/table/OscarDataParser.java",
+                "org/jdesktop/swingx/demos/table/OscarFiltering.java",
                 "org/jdesktop/swingx/demos/table/OscarRendering.java",
-            "org/jdesktop/swingx/demos/table/CustomColumnFactory.java",
-            "org/jdesktop/swingx/demos/table/OscarFiltering.java",
-            "org/jdesktop/swingx/demos/table/resources/XTableDemo.properties"
+                "org/jdesktop/swingx/demos/table/OscarTableModel.java",
+                "org/jdesktop/swingx/demos/table/resources/XTableDemo.properties",
+                "org/jdesktop/swingx/demos/table/resources/bestpicture",
+                "org/jdesktop/swingx/demos/table/resources/oscars.xml",
+                "org/jdesktop/swingx/demos/table/resources/images/XTableDemo.gif",
+                "org/jdesktop/swingx/demos/table/resources/images/goldstar.png",
+                "org/jdesktop/swingx/demos/table/resources/images/nominee.png"
         }
     )
     

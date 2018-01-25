@@ -53,6 +53,7 @@ import com.sun.swingset3.DemoProperties;
         category = "Visualization", 
         description = "Demonstrates JXGraph, a graphing display.", sourceFiles = {
         "org/jdesktop/swingx/demos/graph/GraphDemo.java",
+        "org/jdesktop/swingx/demos/graph/SimpleLinePlot.java",
         "org/jdesktop/swingx/demos/graph/resources/GraphDemo.properties",
         "org/jdesktop/swingx/demos/graph/resources/GraphDemo.html",
         "org/jdesktop/swingx/demos/graph/resources/images/GraphDemo.png"

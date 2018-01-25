@@ -66,9 +66,13 @@ import com.sun.swingset3.DemoProperties;
         sourceFiles = {
                 "org/jdesktop/swingx/demos/search/SearchDemo.java",
                 "org/jdesktop/swingx/demos/search/MatchingTextHighlighter.java",
+                "org/jdesktop/swingx/demos/search/XMatchingTextHighlighter.java",
                 "org/jdesktop/swingx/demos/search/Contributor.java",
                 "org/jdesktop/swingx/demos/search/Contributors.java",
-                "org/jdesktop/swingx/demos/search/resources/SearchDemo.properties"
+                "org/jdesktop/swingx/demos/search/resources/SearchDemo.properties",
+                "org/jdesktop/swingx/demos/search/resources/SearchDemo.html",
+                "org/jdesktop/swingx/demos/search/resources/images/SearchDemo.png",
+                "org/jdesktop/swingx/demos/search/resources/contributors.txt"
                 }
 )
 

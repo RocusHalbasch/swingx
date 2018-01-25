@@ -47,7 +47,6 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates JXMultiSplitPane, a container that allows arbitrary resizing children.",
     sourceFiles = {
         "org/jdesktop/swingx/demos/multisplitpane/MultiSplitPaneDemo.java",
-        "org/jdesktop/swingx/demos/multisplitpane/resources/MultiSplitPaneDemo.properties",
         "org/jdesktop/swingx/demos/multisplitpane/resources/MultiSplitPaneDemo.html",
         "org/jdesktop/swingx/demos/multisplitpane/resources/images/MultiSplitPaneDemo.png"
     }

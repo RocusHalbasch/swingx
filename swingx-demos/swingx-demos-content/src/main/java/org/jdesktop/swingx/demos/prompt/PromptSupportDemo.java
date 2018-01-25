@@ -75,7 +75,7 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates PromptSupport, a prompting decoration for text components.",
     sourceFiles = {
         "org/jdesktop/swingx/demos/prompt/PromptSupportDemo.java",
-        "org/jdesktop/swingx/demos/prompt/resources/PromptSupportDemo.properties",
+        "org/jdesktop/swingx/demos/prompt/resources/PromptSupportDemo.html",
         "org/jdesktop/swingx/demos/prompt/resources/images/PromptSupportDemo.png"
     }
 )

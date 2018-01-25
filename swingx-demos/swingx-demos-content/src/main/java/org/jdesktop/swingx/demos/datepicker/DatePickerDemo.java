@@ -69,6 +69,8 @@ import com.sun.swingset3.DemoProperties;
     sourceFiles = {
         "org/jdesktop/swingx/demos/datepicker/DatePickerDemo.java",
         "org/jdesktop/swingx/demos/datepicker/resources/DatePickerDemo.properties",
+        "org/jdesktop/swingx/demos/datepicker/resources/DatePickerDemo.html",
+        "org/jdesktop/swingx/demos/datepicker/resources/images/DatePickerDemo.png",
         "org/jdesktop/swingx/binding/ComponentOrientationConverter.java"
     }
 )

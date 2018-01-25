@@ -91,7 +91,9 @@ import com.sun.swingset3.DemoProperties;
     description = "Demonstrates JXList, an enhanced list component.",
     sourceFiles = {
         "org/jdesktop/swingx/demos/xlist/XListDemo.java",
-        "org/jdesktop/swingx/demos/xlist/resources/XListDemo.properties"
+        "org/jdesktop/swingx/demos/xlist/resources/XListDemo.properties",
+        "org/jdesktop/swingx/demos/xlist/resources/XListDemo.html",
+        "org/jdesktop/swingx/demos/xlist/resources/images/XListDemo.gif"
     }
 )
 @SuppressWarnings("serial")

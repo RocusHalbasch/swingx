@@ -60,7 +60,8 @@ import com.sun.swingset3.DemoProperties;
         "org/jdesktop/swingx/demos/autocomplete/Airports.java",
         "org/jdesktop/swingx/demos/autocomplete/AirportConverter.java",
         "org/jdesktop/swingx/demos/autocomplete/resources/AutoCompleteDemo.properties",
-        "org/jdesktop/swingx/demos/autocomplete/resources/AutoCompleteDemo.html"
+        "org/jdesktop/swingx/demos/autocomplete/resources/AutoCompleteDemo.html",
+        "org/jdesktop/swingx/demos/autocomplete/resources/images/AutoCompleteDemo.png"
     }
 )
 @SuppressWarnings("serial")

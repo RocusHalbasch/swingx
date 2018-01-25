@@ -51,7 +51,8 @@ import com.sun.swingset3.DemoProperties;
     sourceFiles = {
         "org/jdesktop/swingx/demos/gradientchooser/GradientChooserDemo.java",
         "org/jdesktop/swingx/demos/gradientchooser/resources/GradientChooserDemo.properties",
-        "org/jdesktop/swingx/demos/gradientchooser/resources/GradientChooserDemo.html"
+        "org/jdesktop/swingx/demos/gradientchooser/resources/GradientChooserDemo.html",
+        "org/jdesktop/swingx/demos/gradientchooser/resources/images/GradientChooserDemo.png"
     }
 )
 @SuppressWarnings("serial")

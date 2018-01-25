@@ -53,6 +53,7 @@ import com.sun.swingset3.DemoProperties;
     sourceFiles = {
         "org/jdesktop/swingx/demos/taskpane/TaskPaneDemo.java",
         "org/jdesktop/swingx/demos/taskpane/resources/TaskPaneDemo.properties",
+        "org/jdesktop/swingx/demos/taskpane/resources/TaskPaneDemo.html",
         "org/jdesktop/swingx/demos/taskpane/resources/images/TaskPaneDemo.png",
         "org/jdesktop/swingx/demos/taskpane/resources/images/tasks-email.png",
         "org/jdesktop/swingx/demos/taskpane/resources/images/tasks-internet.png",

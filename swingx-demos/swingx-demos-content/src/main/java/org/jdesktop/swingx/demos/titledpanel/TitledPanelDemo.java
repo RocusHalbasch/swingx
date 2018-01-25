@@ -82,7 +82,9 @@ import com.sun.swingset3.utilities.ArrowIcon;
         description = "Demonstrates JXTitledPanel, a container with a title display.", 
         sourceFiles = {
         "org/jdesktop/swingx/demos/titledpanel/TitledPanelDemo.java",
-        "org/jdesktop/swingx/demos/titledpanel/resources/TitledPanelDemo.properties"
+        "org/jdesktop/swingx/demos/titledpanel/resources/TitledPanelDemo.properties",
+        "org/jdesktop/swingx/demos/titledpanel/resources/TitledPanelDemo.html",
+        "org/jdesktop/swingx/demos/titledpanel/resources/images/TitledPanelDemo.png"
         })
 @SuppressWarnings("serial")
 public class TitledPanelDemo extends JXPanel {

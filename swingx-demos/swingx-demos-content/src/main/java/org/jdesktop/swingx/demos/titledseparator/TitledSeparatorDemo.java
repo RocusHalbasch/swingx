@@ -50,8 +50,8 @@ import com.sun.swingset3.DemoProperties;
     sourceFiles = {
         "org/jdesktop/swingx/demos/titledseparator/TitledSeparatorDemo.java",
         "org/jdesktop/swingx/demos/titledseparator/resources/TitledSeparatorDemo.properties",
-        "org/jdesktop/swingx/demos/titledseparator/resources/TitledSeparatorDemo.html",
-        "org/jdesktop/swingx/demos/titledseparator/resources/images/TitledSeparatorDemo.png"
+        "org/jdesktop/swingx/demos/titledseparator/resources/images/TitledSeparatorDemo.png",
+        "org/jdesktop/swingx/demos/titledseparator/resources/images/green-orb.png"
     }
 )
 @SuppressWarnings("serial")

@@ -67,7 +67,8 @@ import com.sun.swingset3.DemoProperties;
         "org/jdesktop/swingx/demos/blendcomposite/resources/BlendCompositeDemo.properties",
         "org/jdesktop/swingx/demos/blendcomposite/resources/BlendCompositeDemo.html",
         "org/jdesktop/swingx/demos/blendcomposite/resources/images/A.jpg",
-        "org/jdesktop/swingx/demos/blendcomposite/resources/images/B.jpg"
+        "org/jdesktop/swingx/demos/blendcomposite/resources/images/B.jpg",
+        "org/jdesktop/swingx/demos/blendcomposite/resources/images/BlendCompositeDemo.png"
     }
 )
 @SuppressWarnings("serial")

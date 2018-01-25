@@ -55,7 +55,7 @@ import com.sun.swingset3.DemoProperties;
         "org/jdesktop/swingx/demos/collapsiblepane/CollapsiblePaneDemo.java",
         "org/jdesktop/swingx/demos/collapsiblepane/resources/CollapsiblePaneDemo.properties",
         "org/jdesktop/swingx/demos/collapsiblepane/resources/CollapsiblePaneDemo.html",
-        "org/jdesktop/swingx/demos/collapsiblepane/resources/images/CollaspiblePaneDemo.png"
+        "org/jdesktop/swingx/demos/collapsiblepane/resources/images/CollapsiblePaneDemo.png"
     }
 )
 @SuppressWarnings("serial")
